@@ -1,2 +1,7 @@
-# demo-odontologia-dra-laura-vaisman
-Demo web para Odontológia Dra. Laura Vaisman — diseñada por eterlab.
+# Odontológia Dra. Laura Vaisman
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
